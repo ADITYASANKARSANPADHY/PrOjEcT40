@@ -61,7 +61,7 @@ class Game{
                        fill("yellow");
                        stroke("blue");
                        strokeWeight(2);
-                       textSize(23); 
+                       textSize(20); 
                        text(allPlayers[plr].name,x-25,y+25)
                          
                      }
